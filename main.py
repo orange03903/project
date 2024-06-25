@@ -45,7 +45,7 @@ flags = [
     {'image': tkinter.PhotoImage(file='벨기에.png'), 'answer': '벨기에', 'hint': '이 나라는 독일과 비슷하게 생겼습니다.'},
     {'image': tkinter.PhotoImage(file='터키.png'), 'answer': '튀르키예', 'hint': '이 나라의 이름은 터키가 아닙니다.'},
     {'image': tkinter.PhotoImage(file='대한민국.png'), 'answer': '대한민국', 'hint': '이 나라의 수도는 서울입니다.'},
-    {'image': tkinter.PhotoImage(file='일본.png'), 'answer': '일본', 'hint': '이 나라는 동쪽에 위치해 있습니다.'},
+    {'image': tkinter.PhotoImage(file='일본.png'), 'answer': '일본', 'hint': '이 나라는 냥코가 지배중입니다.'},
     {'image': tkinter.PhotoImage(file='이집트.png'), 'answer': '이집트', 'hint': '이 나라는 수에즈 운하를 가지고있습니다.'},
     {'image': tkinter.PhotoImage(file='스위스.png'), 'answer': '스위스', 'hint': '이 나라는 알프스 산맥이 있습니다.'},
 ]
